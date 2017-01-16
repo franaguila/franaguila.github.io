@@ -7,7 +7,7 @@ google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 # Author Info
 author_name:        "Fran Aguila"
 author_email:       francescaaguila@alumni.ubc.ca
-author_gravatar:    <img src="avatar.jpg"> # Gravatar md5 hash
+author_gravatar:    avatar.png # Gravatar md5 hash
 twitter_username:   frantheband
 github_username:    franaguila # GitHub username
 
