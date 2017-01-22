@@ -9,8 +9,7 @@ You could draw some similarities to the [US election](https://www.nytimes.com/20
 
 I recently started reading up on the News Feed algorithms. Before 2012, one was called [EdgeRank](https://en.wikipedia.org/wiki/EdgeRank), and could be simplified into this equation:
 
-![](../latex/ds-ethics/latex-image-1.png)
-
+![](../latex/ds-ethics/latex-image-1.png)<br>
 where:
 
 ![](../latex/ds-ethics/latex-image-2.png): edges <br>
