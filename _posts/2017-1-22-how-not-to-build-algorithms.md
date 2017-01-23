@@ -29,7 +29,7 @@ I recently came across a [podcast](https://cdt.org/blog/tech-talk-weapons-of-mat
 
 In the podcast, she talks about the 2008 financial crisis. The mathematical models used in subprime lending were carelessly built (you could of course add greed into this equation). The models were created with faulty assumptions like, (1) residential real estate prices would always appreciate and (2) mortgage defaults were independent and identically distributed. Eventually what resulted was the biggest financial crisis since the Great Depression.
 
-She also described how policing algorithms have wrongfully labeled people as high risk offenders. Arrests are used to predict future crimes committed, and police are usually deployed to areas where more arrests took place. But arrests don't necessary equate to crime, and so this whole process contributes to uneven policing.
+She also described how policing algorithms have wrongfully labeled people as high risk offenders. Arrests are used to predict future crimes committed, and police are usually deployed to areas where more arrests took place. But arrests don't necessarily equate to crime, and so this whole process contributes to uneven policing.
 
 [Algorithms that calculate recidivism rates](http://www.businessinsider.com/racial-bias-in-criminal-courts-2017-1) also have inherent biases in them. In a number of criminal courts in the United States, black Americans were twice as likely to be wrongfully labelled as high risk offenders as white Americans. This came as a result of biased training data and the ensuing [trade-off between predictive accuracy and level of discrimination](https://mathbabe.org/2017/01/04/recidivism-risk-algorithms-are-inherently-discriminatory/).
 
