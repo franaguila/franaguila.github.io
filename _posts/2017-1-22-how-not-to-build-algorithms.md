@@ -21,7 +21,7 @@ where:
 
 
 More recently however, the number of features of their News Feed machine learning algorithm increased to the hundreds.
-[Facebook now calculates a relevancy score](http://www.slate.com/articles/technology/cover_story/2016/01/how_facebook_s_news_feed_algorithm_works.html), which is assigned to a post given a particular Facebook user. Then, on each user's News Feed, the algorithm sorts Facebook posts by their relevancy scores. These relevancy scores are based on features such as interactions with other users, previous reactions to posts, and virality of the post - many of which limit someone's Facebook experience to certain patterns rather than diversifying the experience.
+[Facebook now calculates a relevancy score](http://www.slate.com/articles/technology/cover_story/2016/01/how_facebook_s_news_feed_algorithm_works.html), which is assigned to a post given a particular Facebook user. Then, on each user's News Feed, the algorithm sorts Facebook posts by their relevancy scores. These scores are based on features such as interactions with other users, previous reactions to posts, and virality of the post - many of which limit someone's Facebook experience to certain patterns rather than diversifying the experience.
 
 It's not just on the News Feed that algorithms have social or political (or other) implications. Mathematical models and machine learning algorithms are, more than ever, used in making big decisions that impact a large number of people.
 
