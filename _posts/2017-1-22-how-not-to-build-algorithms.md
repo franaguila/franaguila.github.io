@@ -23,7 +23,7 @@ where:
 More recently however, the number of features of their News Feed machine learning algorithm increased to the hundreds.
 [Facebook now calculates a relevancy score](http://www.slate.com/articles/technology/cover_story/2016/01/how_facebook_s_news_feed_algorithm_works.html), which is assigned to a post given a particular Facebook user. Then, on each user's News Feed, the algorithm sorts Facebook posts by their relevancy scores. These scores are based on features such as interactions with other users, the user's previous reactions to posts, and virality of the post - many of which limit a person's Facebook experience to certain patterns rather than diversifying their experience.
 
-It's not just on the News Feed that algorithms have social or political (or other) implications. Mathematical models and machine learning algorithms are, more than ever, used in making big decisions that impact a large number of people.
+It's not just on the News Feed that algorithms have social or political (or other) implications. Mathematical models and machine learning algorithms are, more than ever, used to make decisions that impact a large number of people.
 
 I recently came across a [podcast](https://cdt.org/blog/tech-talk-weapons-of-math-destruction/) of the Center for Democracy & Technology (CDT) on Cathy O'Neil's research and book entitled, _Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_. Here she discusses how models and algorithms are imperfect and can create biased decisions (humans create them after all).
 
