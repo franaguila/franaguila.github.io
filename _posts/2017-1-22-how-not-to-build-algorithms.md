@@ -9,7 +9,7 @@ Websites containing fake or heavily biased news grew in number and were and ramp
 
 There were similarities to the [US election](https://www.nytimes.com/2016/08/28/magazine/inside-facebooks-totally-insane-unintentionally-gigantic-hyperpartisan-political-media-machine.html) as well, where News Feed algorithms reinforced cognitive biases and failed to filter out fake news. While [Facebook claimed not to be a media channel](https://qz.com/770743/zuckerberg-says-facebook-will-never-be-a-media-company-despite-controlling-the-worlds-media/), many of its users use it as such while unaware of the mechanisms behind it.
 
-So what are the News Feed algorithms like? Before 2012, the algorithm used in ranking articles was called [EdgeRank](https://en.wikipedia.org/wiki/EdgeRank), which can be simplified into this equation:
+What are the News Feed algorithms like? Before 2012, the algorithm used in ranking articles was called [EdgeRank](https://en.wikipedia.org/wiki/EdgeRank), which can be simplified into this equation:
 
 ![](../latex/ds-ethics/latex-image-1.png)<br>
 where:
