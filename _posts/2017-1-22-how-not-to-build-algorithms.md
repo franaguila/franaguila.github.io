@@ -16,7 +16,7 @@ where:
 
 ![](../latex/ds-ethics/latex-image-2.png): edges <br>
 ![](../latex/ds-ethics/latex-image-3.png): relationship and proximity of user and content <br>
-![](../latex/ds-ethics/latex-image-4.png): weight of user's reaction <br>
+![](../latex/ds-ethics/latex-image-4.png): weight of user reaction <br>
 ![](../latex/ds-ethics/latex-image-5.png): decay parameter for time content was posted
 
 
