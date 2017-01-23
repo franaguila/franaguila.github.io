@@ -16,8 +16,8 @@ where:
 
 ![](../latex/ds-ethics/latex-image-2.png): edges <br>
 ![](../latex/ds-ethics/latex-image-3.png): relationship and proximity of user and content <br>
-![](../latex/ds-ethics/latex-image-4.png): weight of user reaction <br>
-![](../latex/ds-ethics/latex-image-5.png): decay parameter for time
+![](../latex/ds-ethics/latex-image-4.png): weight of user's reaction <br>
+![](../latex/ds-ethics/latex-image-5.png): decay parameter for time content was posted
 
 
 More recently however, the number of features of their News Feed machine learning algorithm increased to the hundreds.
@@ -25,12 +25,15 @@ More recently however, the number of features of their News Feed machine learnin
 
 It's not just on the News Feed that algorithms have social or political (or other) implications. Mathematical models and machine learning algorithms are, more than ever, used in making big decisions that impact a large number of people.
 
-I recently came across a [podcast](https://cdt.org/blog/tech-talk-weapons-of-math-destruction/) of the Center for Democracy & Technology (CDT) on a book by Cathy O'Neil entitled, _Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_. Here she discusses how models and algorithms are imperfect and can create biased decisions (humans create them after all).
+I recently came across a [podcast](https://cdt.org/blog/tech-talk-weapons-of-math-destruction/) of the Center for Democracy & Technology (CDT) on Cathy O'Neil's research and her book entitled, _Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_. Here she discusses how models and algorithms are imperfect and can create biased decisions (humans create them after all).
 
 One huge event that she discussed was the 2008 financial crisis. The mathematical models used in subprime lending were very carelessly built (and you could of course add greed into this equation). These models were created with faulty assumptions like residential real estate would always appreciate and mortgage defaults were independent and identically distributed. Eventually what resulted was the biggest financial crisis since the Great Depression.
 
-Policing algorithms have wrongfully labeled a number of people as high risk offenders. Arrests are used to predict future crimes committed, and police are deployed to areas where more arrests took place. But arrests don't necessary equate to crime. This process contributes to uneven policing. [Algorithms that calculate recidivism rates](http://www.businessinsider.com/racial-bias-in-criminal-courts-2017-1) also have inherent biases in them. In a number of criminal justice systems in the United States, black Americans were twice as likely to be wrongfully labelled as high risk offenders as white Americans. This is because when training data is biased, there becomes a trade-off between predictive accuracy and level of discrimination.
+She also describes how policing algorithms have wrongfully labeled a number of people as high risk offenders. Arrests are used to predict future crimes committed, and police are deployed to areas where more arrests took place. But arrests don't necessary equate to crime. This process contributes to uneven policing. [Algorithms that calculate recidivism rates](http://www.businessinsider.com/racial-bias-in-criminal-courts-2017-1) also have inherent biases in them. In a number of criminal justice systems in the United States, black Americans were twice as likely to be wrongfully labelled as high risk offenders as white Americans. This is because when training data is biased, there becomes a trade-off between predictive accuracy and level of discrimination.
+
+Facebook's ["Ethnic Affinity" targeting option](https://cdt.org/blog/a-closer-look-at-the-legality-of-ethnic-affinity/) has also been controversial. Facebook's algorithms predict users' ethnic affinity without their consent, and companies are able to use this for targeted marketing. Corinthians College, a U.S. for-profit college, used this algorithm and aggressively targeted low-income black single mothers and other vulnerable groups telling them that a degree was their shot at a better life. Instead, they [put them in deep student debt](http://america.aljazeera.com/articles/2013/10/11/california-attorneygeneralfilessuitagainstforprofitcollege.html).
 
 
+We have a huge responsibility as future data scientists as we'll be creating and using algorithms and models that will affect people's lives. We must be mindful and find good guidelines so that people are protected against harmful decisions. We should try to avoid pitfalls and keep others' models in check because we might just be heard (after CDT and other civil rights organizations expressed their concerns, [Facebook amended their ethnic affinity policy](https://cdt.org/blog/facebook-announces-changes-to-ethnic-affinity-marketing/)).
 
 We live in a time where data science is widely used and romanticized. Companies, people, and institutions increasingly rely on models and algorithms to make decisions on various issues. However, left unchecked, these models and algorithms can inadvertently threaten democracy, increase inequality, and negatively impact people's lives.
