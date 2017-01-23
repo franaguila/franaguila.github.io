@@ -25,7 +25,7 @@ More recently however, the number of features of their News Feed machine learnin
 
 It's not just on the News Feed that algorithms have social or political (or other) implications. Mathematical models and machine learning algorithms are, more than ever, used to make decisions that impact a large number of people.
 
-I recently came across a [podcast](https://cdt.org/blog/tech-talk-weapons-of-math-destruction/) of the Center for Democracy & Technology (CDT) on Cathy O'Neil's research and book entitled, _Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_. Here she discusses how models and algorithms are imperfect and can create biased decisions (humans create them after all).
+I recently came across a [podcast](https://cdt.org/blog/tech-talk-weapons-of-math-destruction/) of the Center for Democracy & Technology (CDT) on Cathy O'Neil's research and book entitled, _Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_. Here she discusses how models and algorithms can create biased decisions or be weaponized (humans create them after all).
 
 In the podcast, she talks about the 2008 financial crisis. The mathematical models used in subprime lending were carelessly built (you could of course add greed into this equation). The models were created with faulty assumptions like, (1) residential real estate prices would always appreciate and (2) mortgage defaults were independent and identically distributed. Eventually what resulted was the biggest financial crisis since the Great Depression.
 
