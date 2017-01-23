@@ -7,7 +7,7 @@ In the summer of 2016, President Duterte won the Philippine election by a landsl
 
 There are similarities to the [US election](https://www.nytimes.com/2016/08/28/magazine/inside-facebooks-totally-insane-unintentionally-gigantic-hyperpartisan-political-media-machine.html) as well, where News Feed algorithms reinforced cognitive biases and failed to filter out fake news. While Facebook claims not to be a media channel, many of its users use it as such but are unaware of the mechanisms behind it.
 
-So what are the News Feed algorithms like? Before 2012, the algorithm used in ranking articles was called [EdgeRank](https://en.wikipedia.org/wiki/EdgeRank), and could be simplified into this equation:
+So what are the News Feed algorithms like? Before 2012, the algorithm used in ranking articles was called [EdgeRank](https://en.wikipedia.org/wiki/EdgeRank), which can be simplified into this equation:
 
 ![](../latex/ds-ethics/latex-image-1.png)<br>
 where:
