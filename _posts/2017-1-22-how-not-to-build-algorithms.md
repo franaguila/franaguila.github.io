@@ -3,7 +3,7 @@ title: How Not to Build Algorithms
 updated: 2017-1-21
 ---
 
-In the summer of 2016, President Duterte won the Philippine election by a landslide. The months before the election were grueling for many of us Filipinos, particularly on social media. Organized  pro-Duterte efforts to skew perceptions of candidates sprang up from seemingly nowhere, and online bots, trolls, and Facebook pages formed an orchestra [exploiting Facebook News Feed algorithms](http://www.rappler.com/newsbreak/148536-facebook-algorithms-impact-democracy).
+In the summer of 2016, President Duterte won the Philippine election by a landslide. The months before the election were grueling for many of us Filipinos, particularly on social media. Organized  pro-Duterte efforts to skew perceptions of candidates sprang up from seemingly nowhere, and online bots, trolls, and Facebook pages formed an army, [exploiting Facebook News Feed algorithms](http://www.rappler.com/newsbreak/148536-facebook-algorithms-impact-democracy).
 
 Websites containing fake or heavily biased news were rampant and rampantly shared by Facebook pages with followings in the millions. Bots and trolls propagated posts and pages and threatened those who retaliated. Through this phenomenon, people were siloed into echo chambers devoid of productive conversation, and our efforts to fight online trolls and encourage conversation were futile by the end of the election. The [plight and frustration of many Filipinos](http://www.manilatimes.net/duterte-is-pnoys-real-legacy/258365/) had already gone too deep.
 
